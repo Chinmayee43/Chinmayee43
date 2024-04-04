@@ -1,3 +1,5 @@
+WEBMALL PROJECT
+
 Objective of the project :![image](https://github.com/Chinmayee43/Chinmayee43/assets/158243780/8795e278-ca1a-4daa-a59b-f6ee78a0f739)
 
 The Web Mall enables vendors to set up online shops.
